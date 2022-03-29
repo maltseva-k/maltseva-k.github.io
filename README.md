@@ -28,12 +28,12 @@
 <h2> 💻 My projects: </h2>
 <ul>
   <li> Control panel for home accounting
-    <a href="https://maltseva-k.github.io/Money-Keeper/">Money Keeper</a>
+    <a href="https://maltseva-k.github.io/Money-Keeper/" target="_blank">Money Keeper</a>
   </li>
   <li> Landing page for travel agency
-    <a href="https://maltseva-k.github.io/travel-agency/">Jadoo</a>
+    <a href="https://maltseva-k.github.io/travel-agency/" target="_blank">Jadoo</a>
   </li>
   <li> Dashboard and control panel for development
-    <a href="https://maltseva-k.github.io/argon/">Argon</a>
+    <a href="https://maltseva-k.github.io/argon/" target="_blank">Argon</a>
   </li>
  </ul>
