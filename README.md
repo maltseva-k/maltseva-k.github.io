@@ -21,6 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
 </div>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maltseva-k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
