@@ -20,6 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwind" width="40" height="40"/>
 </div>
 <br>
 
@@ -40,3 +41,9 @@
     <p>:hammer_and_wrench: Vue 3, Tailwind.css, Flowbite, Firebase (realtime database, google/email&password authentication), Chart.js</p>
   </li>
  </ul>
+ 
+ <h2> 📞 Connect with me: </h2>
+ <div>
+    <p> ☎️ +7 (910) 809-28-51 </p>
+    <p> 📧 k.obydennova@gmail.com </p>
+ </div>
