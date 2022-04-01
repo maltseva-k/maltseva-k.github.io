@@ -32,10 +32,6 @@
     <a href="https://maltseva-k.github.io/Money-Keeper/" target="_blank">Money Keeper</a>
     <p>🛠️ Vue 2, Materialize.css, Firebase (realtime database, email&password authentication), Vue-chart.js</p>
   </li>
-  <li> Landing page for travel agency
-    <a href="https://maltseva-k.github.io/travel-agency/" target="_blank">Jadoo</a>
-    <p>🛠️ HTML, CSS</p>
-  </li>
   <li> Dashboard and control panel for development
     <a href="https://maltseva-k.github.io/argon/" target="_blank">Argon</a>
     <p>🛠️ Vue 3, Tailwind.css, Flowbite, Firebase (realtime database, google/email&password authentication), Chart.js</p>
